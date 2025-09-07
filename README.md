@@ -26,4 +26,4 @@ It compares **Logistic Regression** and **Random Forest** models to predict if i
 
 1. Clone this repository:
    ```bash
-   git clone [repository-link]
+  git clone https://github.com/YakimDamyanov/Rainfall_Prediction.git
